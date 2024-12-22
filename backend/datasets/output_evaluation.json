@@ -1,0 +1,12 @@
+{
+  "responses": [
+    "The Eiffel Tower is located in Paris.",
+    "Python is a programming language.",
+    "The sun rises in the west."
+  ],
+  "ground_truths": [
+    "The Eiffel Tower is located in Paris.",
+    "Python is a high-level programming language.",
+    "The sun rises in the east."
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "context": "Paris is the capital of France. It is known for its art and culture.",
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "context": "The Earth revolves around the Sun. This motion creates seasons.",
+    "question": "What causes seasons?",
+    "answer": "The Earth's motion around the Sun."
+  }
+]

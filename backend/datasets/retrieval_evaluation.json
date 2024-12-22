@@ -1,0 +1,14 @@
+{
+  "queries": ["Who discovered gravity?", "What is the capital of Japan?"],
+  "retrieved_docs": [
+    [
+      "Isaac Newton discovered gravity.",
+      "The theory of gravity explains motion."
+    ],
+    ["Tokyo is the capital of Japan.", "Kyoto was once the capital."]
+  ],
+  "ground_truth_docs": [
+    ["Isaac Newton discovered gravity."],
+    ["Tokyo is the capital of Japan."]
+  ]
+}

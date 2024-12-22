@@ -1,0 +1,6 @@
+[
+  { "text": "I love this product!", "label": "positive" },
+  { "text": "The service was terrible.", "label": "negative" },
+  { "text": "Amazing experience, would recommend!", "label": "positive" },
+  { "text": "Not worth the money.", "label": "negative" }
+]
